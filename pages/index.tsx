@@ -13,7 +13,7 @@ export default function Home() {
         <link href="https://fonts.googleapis.com/css2?family=Benne&display=swap" rel="stylesheet"></link>
       </Head>
       <GlobalStyle/>
-      <RegisterPage/>
+      <InitialPage/>
       
     </div>
   )

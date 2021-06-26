@@ -29,5 +29,5 @@ export const OptionsList = styled.ul`
 
 export const Option = styled.li`
   height: ${px2vw(50)};
-  font-weight: ${props => props.selected ? "900" : "400"};
+  font-weight: ${props => props.selected ? "1100" : "400"};
 `;

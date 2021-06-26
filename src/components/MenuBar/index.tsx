@@ -2,6 +2,10 @@ import React from "react";
 
 import { Container, BtnNewCompliment, Option, OptionsList } from "./style";
 
+interface IOption {
+  selected: boolean
+}
+
 const MenuBar = () => {
   return(
     <Container>
