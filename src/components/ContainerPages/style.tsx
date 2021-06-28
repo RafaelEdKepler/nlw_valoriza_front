@@ -11,7 +11,7 @@ export const Container = styled.div`
 export const Title = styled.h1`
   color: var(--black);
   font-size: 1.4rem;
-  margin: 15 0 ${px2vw(50)} ${px2vw(15)};
+  margin: ${px2vw(10)} 0 ${px2vw(10)} ${px2vw(25)};
 
   &:nth-child(2n) {
     margin-top: ${px2vw(-5)};
